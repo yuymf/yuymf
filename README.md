@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/yuymf">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+yuymf+👋;CV+/+AI+Researcher+%26+Engineer;C%2B%2B+|+Python+|+PyTorch+|+OpenGL&font=Fira+Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+yuymf+%F0%9F%91%8B;CV+%2F+AI+Researcher+%26+Engineer;C%2B%2B+%7C+Python+%7C+PyTorch+%7C+OpenGL&font=Fira+Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </div>
 
