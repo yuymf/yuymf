@@ -1,57 +1,70 @@
 <div align="center">
-  <a href="https://github.com/yuymf">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+yuymf+%F0%9F%91%8B;CV+%2F+AI+Researcher+%26+Engineer;C%2B%2B+%7C+Python+%7C+PyTorch+%7C+OpenGL&font=Fira+Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-  </a>
-</div>
 
-<div align="center">
+# Hi, I'm YUYMF
 
-🎓 CV / AI Researcher focused on Object Tracking & Detection
+**CV / AI Researcher & Engineer**
 
-🔧 Building game engines, shaders, and rendering pipelines
+`Object Tracking` · `Object Detection` · `UAV Vision` · `C++ Game Engine` · `Real-time Rendering` · `AI Agents`
 
-🌱 Currently exploring AI Agents & LLM Engineering
+I focus on turning research ideas into reproducible benchmarks, practical tools, and working engineering systems.
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,pytorch,tensorflow,opencv,lua,bash&theme=dark" alt="Languages and ML Frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=unreal,unity,blender,cmake,git,docker&theme=dark" alt="Engines and Tools" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
-
-</div>
+- 🎓 Working on **computer vision research**, especially object tracking, object detection, UAV vision, and tiny-object tracking.
+- 🧪 Interested in **datasets, benchmarks, evaluation protocols, and reproducible experiments**.
+- 🔧 Building **C++ game engines, shaders, rendering pipelines, and interactive graphics projects**.
+- 🌱 Exploring **AI Agents and LLM Engineering** as tools for research and software development.
 
 ---
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuymf&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=yuymf&hide_border=true&theme=tokyonight" alt="Streak Stats" />
-</div>
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuymf&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</div>
+## Research & Engineering Focus
+
+| Area | What I work on | What it shows |
+|---|---|---|
+| Computer Vision | Object tracking, object detection, UAV / tiny-object scenarios | Research problem framing, dataset thinking, experiment design |
+| Benchmarks & Reproduction | Dataset construction, evaluation pipelines, tracking baselines | Ability to make research measurable and comparable |
+| Engine & Rendering | C++ engine architecture, shaders, UE / Unity projects | Low-level engineering, graphics intuition, system design |
+| AI Engineering | AI Agents, LLM workflows, model-assisted development | Interest in connecting models with usable tools |
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuymf/yuymf/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuymf/yuymf/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuymf/yuymf/output/github-snake.svg" />
-  </picture>
-</div>
+## Featured Work
+
+| Project | What it demonstrates |
+|---|---|
+| [OLOD](https://github.com/yuymf/OLOD) | A UAV dataset and benchmark for single tiny object tracking; shows research execution from data to evaluation. |
+| [HzEngine](https://github.com/yuymf/HzEngine) | A C++ game engine project; shows engine architecture, rendering, and systems programming practice. |
+| [ShaderQuickCheck](https://github.com/yuymf/ShaderQuickCheck) | A shader playground for collecting effect code and visual experiments; shows graphics iteration and ShaderLab experience. |
+| [ActionRoguelike](https://github.com/yuymf/ActionRoguelike) | A UE4 C++ game project; shows gameplay programming and Unreal Engine development. |
+| [LTMU](https://github.com/yuymf/LTMU) | Visual tracking research code based on CVPR work; shows paper-reading, reproduction, and tracking-system understanding. |
 
 ---
 
-<div align="center">
+## Technical Toolbox
 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuymf)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuymf@qq.com)
-  [![Blog](https://img.shields.io/badge/Blog-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://halyu-me.vercel.app/)
+| Direction | Tools & Skills |
+|---|---|
+| Research / ML | Python, PyTorch, TensorFlow, OpenCV, dataset design, benchmark evaluation |
+| Systems / Engine | C++, C, CMake, Git, Docker, rendering architecture |
+| Graphics / Games | OpenGL, Vulkan, Unreal Engine, Unity, Blender, ShaderLab |
+| Scripting / Workflow | Lua, Bash, automation, experiment organization |
 
-</div>
+---
+
+## Current Interests
+
+- Making object tracking and detection experiments easier to reproduce and compare.
+- Building graphics and engine projects that connect math, rendering, and interaction.
+- Exploring how AI Agents can improve coding, research reading, and evaluation workflows.
+
+---
+
+## Connect
+
+- GitHub: [github.com/yuymf](https://github.com/yuymf)
+- Blog: [halyu-me.vercel.app](https://halyu-me.vercel.app/)
+- Email: [yuymf@qq.com](mailto:yuymf@qq.com)
