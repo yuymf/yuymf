@@ -2,11 +2,11 @@
 
 # Hi, I'm YUYMF
 
-**CV / AI Researcher & Engineer**
+**AI Agent Engineer / AI Application Researcher**
 
-`Object Tracking` · `Object Detection` · `UAV Vision` · `C++ Game Engine` · `Real-time Rendering` · `AI Agents`
+`Agent Runtime` · `LLM Workflows` · `AI Product Engineering` · `Game AI` · `Computer Vision`
 
-I focus on turning research ideas into reproducible benchmarks, practical tools, and working engineering systems.
+I build AI systems that turn messy context into usable tools: agent workflows, memory systems, content intelligence, and decision-making environments.
 
 </div>
 
@@ -14,33 +14,35 @@ I focus on turning research ideas into reproducible benchmarks, practical tools,
 
 ## About Me
 
-- 🎓 Working on **computer vision research**, especially object tracking, object detection, UAV vision, and tiny-object tracking.
-- 🧪 Interested in **datasets, benchmarks, evaluation protocols, and reproducible experiments**.
-- 🔧 Building **C++ game engines, shaders, rendering pipelines, and interactive graphics projects**.
-- 🌱 Exploring **AI Agents and LLM Engineering** as tools for research and software development.
+- Building **agentic applications** across content creation, knowledge management, virtual characters, and game-like decision systems.
+- Interested in **LLM workflow engineering**: tool use, long-running jobs, memory, evaluation loops, streaming UX, and deployment.
+- Experienced in **game AI and simulation**: reinforcement learning, MCTS, strategy environments, Unity/UE workflows, and virtual character systems.
+- Previously worked on **computer vision research**, especially UAV tiny-object tracking, datasets, benchmarks, and reproducible experiments.
 
 ---
 
-## Research & Engineering Focus
+## Current Focus
 
-| Area | What I work on | What it shows |
+| Direction | What I build | What it shows |
 |---|---|---|
-| Computer Vision | Object tracking, object detection, UAV / tiny-object scenarios | Research problem framing, dataset thinking, experiment design |
-| Benchmarks & Reproduction | Dataset construction, evaluation pipelines, tracking baselines | Ability to make research measurable and comparable |
-| Engine & Rendering | C++ engine architecture, shaders, UE / Unity projects | Low-level engineering, graphics intuition, system design |
-| AI Engineering | AI Agents, LLM workflows, model-assisted development | Interest in connecting models with usable tools |
+| Agent Engineering | Multi-step LLM workflows, tool orchestration, long-running task pipelines, SSE progress streams | Turning agents from demos into usable software |
+| AI Application Research | Content intelligence, AI analysis services, cross-platform data products, personal knowledge systems | Mapping business/product questions into model-assisted systems |
+| Autonomous Agents | Persona agents, memory layers, heartbeat loops, intent/state engines, sub-skill routing | Designing agents that maintain context and act over time |
+| Game & Strategy AI | RL/MCTS agents, game simulators, procedural content generation, virtual character interaction | Handling complex state, uncertain actions, and evaluation |
+| Research Systems | Dataset design, tracking benchmarks, reproducible evaluation pipelines | Making experiments measurable and comparable |
 
 ---
 
-## Featured Work
+## Selected Work
 
 | Project | What it demonstrates |
 |---|---|
-| [OLOD](https://github.com/yuymf/OLOD) | A UAV dataset and benchmark for single tiny object tracking; shows research execution from data to evaluation. |
-| [HzEngine](https://github.com/yuymf/HzEngine) | A C++ game engine project; shows engine architecture, rendering, and systems programming practice. |
-| [ShaderQuickCheck](https://github.com/yuymf/ShaderQuickCheck) | A shader playground for collecting effect code and visual experiments; shows graphics iteration and ShaderLab experience. |
-| [ActionRoguelike](https://github.com/yuymf/ActionRoguelike) | A UE4 C++ game project; shows gameplay programming and Unreal Engine development. |
-| [LTMU](https://github.com/yuymf/LTMU) | Visual tracking research code based on CVPR work; shows paper-reading, reproduction, and tracking-system understanding. |
+| **AI Script & Storyboard Agent** | Full-stack agent product for live/script/storyboard generation with Next.js, Hono/FastAPI, PostgreSQL, Docker Compose, and streaming progress UX. |
+| **Autonomous Persona Agent Runtime** | Long-term memory, emotion/state engines, heartbeat loops, intent pools, content-source adapters, and pluggable agent skills. |
+| **Cross-platform AI Knowledge Manager** | Browser extension + web app + shared adapters for collecting, syncing, searching, tagging, and summarizing information across platforms. |
+| [**MetaGPT Minecraft Contributions**](https://github.com/FoundationAgents/MetaGPT/pulls?q=is%3Apr+author%3Ayuymf+Minecraft) | Multi-agent open-source contributions: action developer, curriculum agent, skill manager, Mineflayer integration, and event loop fixes. |
+| [**xiaohongshu-skills**](https://github.com/yuymf/xiaohongshu-skills) / [**douyin-skills**](https://github.com/yuymf/douyin-skills) | CDP-based platform automation skills, account isolation, browser process control, human-like interaction, publishing/search/ops workflows. |
+| [**OLOD**](https://github.com/yuymf/OLOD) | UAV tiny-object tracking dataset and benchmark; research execution from data construction to evaluation protocol. |
 
 ---
 
@@ -48,23 +50,25 @@ I focus on turning research ideas into reproducible benchmarks, practical tools,
 
 | Direction | Tools & Skills |
 |---|---|
-| Research / ML | Python, PyTorch, TensorFlow, OpenCV, dataset design, benchmark evaluation |
-| Systems / Engine | C++, C, CMake, Git, Docker, rendering architecture |
-| Graphics / Games | OpenGL, Vulkan, Unreal Engine, Unity, Blender, ShaderLab |
-| Scripting / Workflow | Lua, Bash, automation, experiment organization |
+| AI / Agents | Python, TypeScript, LangGraph, Agno, OpenAI-compatible APIs, RAG, prompt/workflow design, agent evaluation |
+| Product Engineering | Next.js, React, Hono/FastAPI, PostgreSQL, Redis, Prisma, Supabase, Docker, Nginx, Vercel |
+| Automation | Chrome CDP, browser extensions, platform adapters, scheduled jobs, data normalization, anti-fragile scraping workflows |
+| ML / Research | PyTorch, OpenCV, RL, MCTS, dataset design, benchmark evaluation, experiment tracking |
+| Game / Interactive | Unity, Unreal Engine, C++, C#, procedural generation, virtual character systems |
 
 ---
 
-## Current Interests
+## Recent Interests
 
-- Making object tracking and detection experiments easier to reproduce and compare.
-- Building graphics and engine projects that connect math, rendering, and interaction.
-- Exploring how AI Agents can improve coding, research reading, and evaluation workflows.
+- Making agents useful after the first prompt: memory, state, schedules, tools, and recovery.
+- Designing AI products where the model is only one part of a larger workflow.
+- Building virtual characters and game worlds that can reason, adapt, and generate stories through interaction.
+- Studying open-source agent frameworks and extracting practical architecture patterns.
 
 ---
 
 ## Connect
 
+- Blog: [halyu.me](https://halyu.me)
 - GitHub: [github.com/yuymf](https://github.com/yuymf)
-- Blog: [halyu-me.vercel.app](https://halyu-me.vercel.app/)
 - Email: [yuymf@qq.com](mailto:yuymf@qq.com)
