@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cover.png" alt="YUYMF — AI Agent Engineer / AI Application Researcher" width="100%">
+  <img src="assets/cover.png" alt="Halyu Land — YUYMF, AI Agent Engineer" width="100%">
 </div>
 
 <div align="center">
