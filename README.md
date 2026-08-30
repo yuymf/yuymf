@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/cover.png" alt="YUYMF — AI Agent Engineer / AI Application Researcher" width="100%">
+</div>
+
+<div align="center">
 
 # Hi, I'm YUYMF
 
@@ -64,6 +68,16 @@ I build AI systems that turn messy context into usable tools: agent workflows, m
 - Designing AI products where the model is only one part of a larger workflow.
 - Building virtual characters and game worlds that can reason, adapt, and generate stories through interaction.
 - Studying open-source agent frameworks and extracting practical architecture patterns.
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuymf/yuymf/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuymf/yuymf/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuymf/yuymf/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
